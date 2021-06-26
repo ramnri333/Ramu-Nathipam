@@ -1,0 +1,32 @@
+﻿Output 1 :-
+2
+Number of the employees: 2
+Microwave Oven: 9800
+Alexa: 9999
+And the difference the chosen goodie with highest price and lowest price is 199
+
+[Program finished]
+
+Output 2:-
+6
+Number of the employees: 6
+Sandwich Toaster: 2195
+Cult Pass: 2799
+Scale: 4999
+fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+And the difference the chosen goodie with highest price and lowest price is 7804
+
+[Program finished]
+
+Output 3;-
+4
+Number of the employees: 4
+fitbit Plus: 7980
+Microwave Oven: 9800
+Alexa: 9999
+Digital Camera: 11101
+And the difference the chosen goodie with highest price and lowest price is 3121
+
+[Program finished]
